@@ -1,6 +1,6 @@
 <div class="col-md-3 top-nav">
 				     <div class="logo">
-						<a href="index.html"><h1 class="display-1">hamro blog</h1></a>
+						<a href="index.php"><h1 class="display-1">hamro blog</h1></a>
 					</div>
 					<div class="top-menu">
 					 <span class="menu"> </span>
